@@ -11,10 +11,6 @@
 - CSS
 - Yaml for documentation
 
-/*## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)*/
-
 
 ## Getting Started
 
@@ -64,7 +60,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Big up to @abhishek and @eli cheik for the support 
-
-## 📝 License
-
-This project has Not license.
